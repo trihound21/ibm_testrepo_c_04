@@ -48,3 +48,28 @@ function endTest() {
     button.innerHTML = "Start Test";
     button.onclick = startTest;
 }
+
+// Practice Task
+// You can also calculate the total length of text which you have captured 
+// in variable userTypedText that user has entered.
+
+// For this you need to utilize:
+// length property to check the length of entire text using variable userTypedText.
+// Include in the output result as well.
+
+// The output will look like as below:
+// Speed Typing Analysis
+// Type the following text:
+// Textbox for example text
+// Your typing:
+// Textbox for entry
+// Buttons: Start Test, End Test
+// Typing Test Results:
+// Total Length:
+// Words Typed:
+// Time Elapsed:
+// Words Per Minute (WPM):
+
+// Perform git add, git commit and git push commands
+// to push your latest task
+// and keep your code updated on GitHub repository.
